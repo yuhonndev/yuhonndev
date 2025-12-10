@@ -6,3 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=yuhonndev&style=flat-square&color=7F00FF" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-FFB800?style=flat-square" alt="Status" />
 </div>
+
+## 💻 About Me
+
+Hi there! I'm a developer who loves turning complex problems into clean, efficient, and user-friendly digital experiences. I design with purpose, build with precision, and constantly push myself to learn the technologies that shape the future.
+
+I'm a **2nd Year BSIT Student** at **Pampanga State Agricultural University**, continuously growing my skills as I explore the world of programming, development, and design.
+
